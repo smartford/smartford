@@ -1,5 +1,5 @@
 <h3 align="left">
-  <img src="smlogo.png" height="35" align="absmiddle" alt="Logo">&nbsp;&nbsp;Добро пожаловать на официальный аккаунт Smartford Company на GitHub! 👋
+  <img src="smlogo.png" height="37" align="absmiddle" alt="Logo">&nbsp;&nbsp;Добро пожаловать на официальный аккаунт Smartford Company на GitHub! 👋
 </h3>
 
 **Мы занимаемся:**
